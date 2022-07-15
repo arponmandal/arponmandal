@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arponmondal
+- 👋 Hi, I’m @arponmandal
 - 👀 I’m interested in ML,AI
 - 🌱 I’m currently learning ML algo and some maths
 - 💞️ I’m looking to collaborate on research paper or projects
